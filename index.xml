@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DK tinklapis</title>
+    <link>https://gruzas32.github.io/</link>
+    <description>Recent content on DK tinklapis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Dec 2024 18:32:44 +0200</lastBuildDate>
+    <atom:link href="https://gruzas32.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testas</title>
+      <link>https://gruzas32.github.io/posts/testas/</link>
+      <pubDate>Thu, 12 Dec 2024 18:32:44 +0200</pubDate>
+      <guid>https://gruzas32.github.io/posts/testas/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
